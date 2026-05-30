@@ -18,7 +18,7 @@ const texts = [
     title: "La Clef des Assises",
     description:
       "The key to understanding the legal framework of medieval Cyprus.",
-    href: "/texts/clef-assises",
+    href: "/texts/clef-des-assises",
   },
   {
     title: "Le Conseil du Roi Charles",
